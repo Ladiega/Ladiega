@@ -6,7 +6,7 @@
 
 ### Summary
 
-Passionate self-taught web developer with strong knowledge in HTML, CSS, and JavaScript. Experience using frameworks like React and Next.js to create dynamic and engaging web applications. Lifelong learner with a creative mindset and meticulous attention to detail. Seeking opportunities to grow as a junior web developer, learn from experienced professionals, and contribute to team success.
+Passionate self-taught web developer with knowledge in HTML, CSS, and JavaScript. Experience using frameworks like React and Next.js to create dynamic and engaging web applications. Lifelong learner with a creative mindset and meticulous attention to detail. Seeking opportunities to grow as a junior web developer, learn from experienced professionals, and contribute to team success.
 
 
 ### Skills
@@ -17,7 +17,7 @@ Passionate self-taught web developer with strong knowledge in HTML, CSS, and Jav
 - React
 - Next.js
 - Responsive Design
-- Problem Solving
+- Figma
 - Attention to Detail
 
 ### Projects
