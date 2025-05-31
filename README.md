@@ -28,9 +28,9 @@ Passionate self-taught web developer with knowledge in HTML, CSS, and JavaScript
 
 ### Languages
 
-- Spanish: Native
-- Portuguese: C2 level
-- English: B1 level
+- Spanish: 
+- Portuguese: 
+- English:
 
 
 
