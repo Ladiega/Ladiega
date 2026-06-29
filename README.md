@@ -1,6 +1,6 @@
-## Diego Gutierrez Casallas
+## Diego Gutierrez 
 
-### Web Developer | Self-Taught | Junior Level
+### Web Developer
 📍 Location: Bogota, Colobia
 
 
